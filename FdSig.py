@@ -245,3 +245,4 @@ if __name__ == "__main__" or True:
             imshowEx(fa, title = "freq")
             pyplot.subplot(224)
             imshowEx(xb, title = "deco")
+            pyplot.show() #display
